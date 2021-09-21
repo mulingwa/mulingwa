@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mulingwa
-- 👀 I’m interested in Web Dev, Data Analytics and Data Science
+- 👀 I’m interested in Web Dev and analytics
 - 🌱 I’m currently learning Responsive Web Dev
-- 💞️ I’m looking to collaborate on anything web and SQL,R,Python
+- 💞
 - 📫 
 
 <!---
