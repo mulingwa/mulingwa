@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mulingwa
 - 👀 I’m interested in Web Dev and analytics
-- 🌱 I’m currently learning Responsive Web Dev
+- 🌱 
 - 💞
 - 📫 
 
