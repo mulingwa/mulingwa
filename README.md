@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @mulingwa
-- 👀 I’m interested in Web Dev and analytics
-- 🌱 
-- 💞
-- 📫 
+- 👀 I’m interested in Web Dev and Data Analytics
+- 📫 DM for collaborations or comments at Jacintasally@gmail.com 
 
 <!---
 mulingwa/mulingwa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
