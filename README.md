@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mulingwa
-- 👀 I’m interested in Data Analytics
+- 👀 I’m interested in Data Analytics projects
 - 📫 DM for collaborations or comments at Jacintasally@gmail.com 
 
 <!---
